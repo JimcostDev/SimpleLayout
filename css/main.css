@@ -110,4 +110,20 @@ footer {
   clear: both;
 }
 
+@media screen and (max-width: 820px) {
+  .main {
+    width: 100%;
+  }
+
+  aside {
+    width: 100%;
+  }
+
+  footer {
+    width: 100%;
+    color: #02152a;
+    background: #fff;
+  }
+}
+
 /*# sourceMappingURL=main.css.map */
